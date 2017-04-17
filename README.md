@@ -1,9 +1,9 @@
 ![mobble](http://cloud.scott.ee/images/mobble.png)
 
-# Brand Identity
+# Visual Design repo for Randy Champagne Web Development
 
 * Contributors: [@randychampagne](http://twitter.com/randychampagne)
-* Description: This is the product design repository
+* Description: This is the visual design repository
 * Author: [Randy Champagne](http://www.randychampagne.com)
 * Author URI: [http://www.randychampagne.com](http://www.randychampagne.com)
 * License: GNU General Public License v3.0
